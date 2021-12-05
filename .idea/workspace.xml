@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5681051-bdc4-40ca-953f-5051bfd2c24e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Auth-clone2/Auth/Server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/Auth-clone2/Auth/Server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Auth-clone2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21dZV4xtxEbazoWWJg7N9WKauYZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -27,9 +25,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web2lab8/Web-2-Lab6" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -51,7 +49,11 @@
       <updated>1638272947193</updated>
       <workItem from="1638272958524" duration="272000" />
       <workItem from="1638288041471" duration="1538000" />
-      <workItem from="1638457822091" duration="6859000" />
+      <workItem from="1638457822091" duration="8532000" />
+      <workItem from="1638641993846" duration="1441000" />
+      <workItem from="1638643527248" duration="117000" />
+      <workItem from="1638721961323" duration="440000" />
+      <workItem from="1638722891870" duration="45000" />
     </task>
     <servers />
   </component>
@@ -60,5 +62,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <confirmRemoveEmptyChangelist value="1" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Auth-clone2" />
+    </ignored-roots>
   </component>
 </project>

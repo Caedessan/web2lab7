@@ -1,7 +1,10 @@
 .messageBlock {
 
 }
-
+body{
+    color: wheat;
+    background-color: darkblue;
+}
 .author {
     font-size: large;
     font-weight: bold;
